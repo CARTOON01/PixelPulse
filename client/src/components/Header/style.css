@@ -1,0 +1,85 @@
+.fontSize {
+  font-size: 16px !important;
+}
+
+.fontSizeContact {
+  font-size: 15px !important;
+}
+
+.logoMargin {
+  margin-left: 20px;
+  margin-top: 2px;
+}
+
+.notesBtn {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+  margin-top: 5px !important;
+}
+
+.user-view {
+  height: 100%;
+  background-position: left;
+  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 20px;
+  margin-top: 30px;
+}
+
+.white-text.name {
+  color: black !important;
+  margin-left: 110px;
+  font-size: large !important;
+}
+
+.white-text.email {
+  color: black !important;
+  margin-left: 100px;
+  font-size: medium !important;
+}
+
+.sideNavWidth {
+  width: 700px !important;
+}
+
+.marginRight {
+  margin-right: 20px;
+}
+
+.marginTop {
+  margin-top: 50px;
+}
+
+.marginBottom {
+  margin-bottom: 100px;
+}
+.inputMargin {
+  margin-top: 20px !important;
+}
+
+.circleMargin {
+  padding-top:6px !important;
+}
+
+.LinkCSS {
+  height: auto;
+  width: 50%;
+}
+
+.NavBarButton {
+  padding-top: 45px;
+
+}
+
+.notesTEXT {
+  color: black;
+}
+
+.material-icons{
+  color: white
+  !important;
+
+
+
+}

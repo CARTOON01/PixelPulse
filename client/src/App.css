@@ -1,0 +1,26 @@
+.responsive-img.circle {
+  height: 250px;
+  padding-bottom: 30px;
+  margin-left: 50px;
+}
+
+.aboutHeader {
+  height: 50px;
+}
+
+.card-panel {
+  padding-bottom: 150px;
+}
+
+body {
+  height: 100vh;
+}
+
+.chip {
+  margin-left: 80px;
+}
+
+.mainlogo {
+  height: 500px;
+  margin-top: 20px;
+}
